@@ -70,7 +70,7 @@ I've utilized the impressive mGPT-1.3B model, which is available through the Hug
 
 - Model: [mGPT-1.3B for Azerbaijani](https://huggingface.co/ai-forever/mGPT-1.3B-azerbaijan)
 
-Using open-source models not only accelerates innovation but also fosters collaboration within the AI community. We're grateful for the contributions of the Hugging Face community and the accessibility of this model, which has enriched our project.
+Using open-source models not only accelerates innovation but also fosters collaboration within the AI community. I am grateful for the contributions of the Hugging Face community and the accessibility of this model, which has enriched the project.
 
 Feel free to explore the model's capabilities and contribute to its ongoing development!
 
