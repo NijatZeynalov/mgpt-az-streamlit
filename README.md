@@ -24,9 +24,9 @@ To run the Streamlit app locally, you need to set up a Python environment and in
    ```
 2. **Install the project dependencies:**
 
-  ```python
-  pip install -r requirements.txt
-```
+   ```python
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 Once you have set up the environment, you can run the Streamlit app:
