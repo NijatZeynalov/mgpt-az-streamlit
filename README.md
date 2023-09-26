@@ -1,4 +1,4 @@
-# Azerbaijani Text Generation with mGPT
+# Azerbaijani Text Generation with mGPT-XL (Streamlit app)
 
 
 This project is a Streamlit app that uses the mGPT-XL (1.3B) model to generate Azerbaijani text. Users can input partial text, and the model will complete it with contextually relevant text in Azerbaijani.
