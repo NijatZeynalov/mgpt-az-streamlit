@@ -33,9 +33,33 @@ Once you have set up the environment, you can run the Streamlit app:
 
 ```bash
 streamlit run main.py
+```
 
 The app will be accessible in your web browser at http://localhost:8501. You can enter partial text in the provided input field and click the "Tamamla" (Complete) button to generate text.
 
 
+## Dockerization
+
+This project includes a Dockerfile for containerizing the Streamlit app. Follow these steps to build and run the Docker container:
+
+1. Build the Docker image (replace your-image-name with a desired name):
+   
+```bash
+docker build --no-cache -t streamlit-az-text .
+```
+
+2. Run the Docker container (mapping port 8501 to the host):
+   
+```bash
+docker run -p 8501:8501 streamlit-az-text
+```
+
+## Demo
+
+You can see a demo of how the app works below:
+![Demo](https://your-demo-url.com/demo.gif)
 
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
