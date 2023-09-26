@@ -57,6 +57,7 @@ docker run -p 8501:8501 streamlit-az-text
 ## Demo
 
 You can see a demo of how the app works below:
+
 ![Demo](https://github.com/NijatZeynalov/mgpt-az-streamlit/assets/31247506/745d994e-179f-4680-9c40-abc73f0cf2ce)
 
 ## License
