@@ -42,7 +42,7 @@ The app will be accessible in your web browser at http://localhost:8501. You can
 
 This project includes a Dockerfile for containerizing the Streamlit app. Follow these steps to build and run the Docker container:
 
-1. Build the Docker image (replace your-image-name with a desired name):
+1. Build the Docker image:
    
 ```bash
 docker build --no-cache -t streamlit-az-text .
